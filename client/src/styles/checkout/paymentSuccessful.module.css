@@ -1,0 +1,36 @@
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #4CAF50; /* Green color */
+  }
+  
+  .message {
+    font-size: 18px;
+  }
+  
+  .details {
+    margin: 20px 0;
+  }
+  
+  .details p {
+    font-size: 16px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Darker green */
+  }
+  
